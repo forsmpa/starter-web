@@ -22,3 +22,4 @@ can be on any web server or even local
 file system.
 
 ## How to contribute
+2014 Git.Training
