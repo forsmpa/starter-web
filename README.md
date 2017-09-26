@@ -22,4 +22,9 @@ can be on any web server or even local
 file system.
 
 ## How to contribute
+Please for this repository and then issue 
+Pull Requests for review
+
 2014 Git.Training
+
+
