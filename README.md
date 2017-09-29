@@ -2,7 +2,8 @@
 
 This is a simple website project for 
 showing how to use Git and Github
-Adding a text for rebasing example
+Adding a text for rebasing example, 
+then more changes from my featrure branch
 
 ## Introduction
 
