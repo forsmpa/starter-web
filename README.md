@@ -27,6 +27,8 @@ file system.
 Please for this repository and then issue 
 Pull Requests for review
 
-2014 Git.Training
+### Copyright
+
+2014 Git.Training. All rights reserved.
 
 
